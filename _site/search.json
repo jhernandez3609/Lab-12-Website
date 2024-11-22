@@ -26,12 +26,5 @@
     "title": "Lab 12 Website",
     "section": "Third step",
     "text": "Third step\nNow I will be creating tabs to display each figure.\n\nScatterplot: with DC\n\np1_scatter\n\n\n\n\n\n\n\nScatterplot: without DC\n\np2_scatter"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
