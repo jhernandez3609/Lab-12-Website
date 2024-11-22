@@ -7,8 +7,6 @@ output:
         toc_float: TRUE
 ---
 
-This is my PM566 Lab 12 website.
-
 ## First Step
 
 Sourcing necessary code process_COVID_data.R.
