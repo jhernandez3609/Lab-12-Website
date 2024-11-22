@@ -1,12 +1,13 @@
 ---
 title: "Lab 12 Website"
+author: "Jazmin Hernandez"
+output: 
+    html_document:
+        toc: TRUE
+        toc_float: TRUE
 ---
 
-<br>
-
 This is my PM566 Lab 12 website.
-
-<br>
 
 ## First Step
 
@@ -86,7 +87,3 @@ p1_scatter
 ```{r p2}
 p2_scatter
 ```
-
-##  {.unnumbered}
-
-<br>
