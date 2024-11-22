@@ -40,7 +40,7 @@ source("process_COVID_data.R")
 
 ## Second Step
 
-Now I will be creating the **plotly** figures.
+Creating the **plotly** figures.
 
 ```{r plot1, class.source="code-r-small"}
 
@@ -70,7 +70,7 @@ p2_scatter <- cv_states_today_scatter |>
          hovermode = "compare")
 ```
 
-## Third step {.tabset}
+## Third step
 
 Now I will be creating tabs to display each figure.
 
